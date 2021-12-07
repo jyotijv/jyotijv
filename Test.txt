@@ -1,8 +1,6 @@
 This is a test
 Testing second line
-<<<<<<< HEAD
 test 3rd line
 4th line
-=======
 Remote change
->>>>>>> 63f3dff9a7317b6803104dfc832864e7918c2371
+
